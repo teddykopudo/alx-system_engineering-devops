@@ -9,3 +9,4 @@
 9-firstdirdeletion:delete directory my_first_directory under /tmp/;rmdir /tmp/my_first_directory
 10-back:go back to  previous directory;cd -
 11-lists:list all file in current directory,parent directory and /boot in that order;ls -la . .. /boot
+12-file_type:prints type of file named iamafile in directory /tmp/;file /tmp/iamafile

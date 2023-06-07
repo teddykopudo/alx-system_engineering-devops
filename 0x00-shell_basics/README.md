@@ -10,3 +10,4 @@
 10-back:go back to  previous directory;cd -
 11-lists:list all file in current directory,parent directory and /boot in that order;ls -la . .. /boot
 12-file_type:prints type of file named iamafile in directory /tmp/;file /tmp/iamafile
+13-symbolic_link:create a symbolic link under /bin/ls,named __ls__ in current directory;ln -s /bin/ls __ls__

@@ -15,3 +15,4 @@
 100-lets_move: move all files beginning with uppercase to directory /tmp/u
 101-clean_emacs;deletes all files in current working directory that ends with ~;rm *~
 102-tree:creates a directories welcome/to/school;mkdir -p welcome/to/school
+103-commas:write a command that lists all the files and directories of current directory separated by comma;ls -map

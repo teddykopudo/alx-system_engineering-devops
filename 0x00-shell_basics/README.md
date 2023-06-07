@@ -5,3 +5,4 @@
 5-listfilesdigitonly:display current working directory in long format,hidden files and user and group ID's numerically;ls -lna
 6-firstdirectory:make directory under /tmp/;mkdir /tmp/my_first_directory
 7-movethatfile:move file from /tmp/betty to /tmp/my_first_directory;mv /tmp/betty /tmp/my_first_directory
+8-firstdelete:delete betty from /tmp/my_first_directory/betty;rm /tmp/my_first_directory/betty

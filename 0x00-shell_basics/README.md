@@ -14,3 +14,4 @@
 14-copy_html:copies all HTML files from working directory to parent directory;cp -rua *.html ../
 100-lets_move: move all files beginning with uppercase to directory /tmp/u
 101-clean_emacs;deletes all files in current working directory that ends with ~;rm *~
+102-tree:creates a directories welcome/to/school;mkdir -p welcome/to/school

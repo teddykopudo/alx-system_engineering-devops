@@ -7,3 +7,4 @@
 7-movethatfile:move file from /tmp/betty to /tmp/my_first_directory;mv /tmp/betty /tmp/my_first_directory
 8-firstdelete:delete betty from /tmp/my_first_directory/betty;rm /tmp/my_first_directory/betty
 9-firstdirdeletion:delete directory my_first_directory under /tmp/;rmdir /tmp/my_first_directory
+10-back:go back to  previous directory;cd -

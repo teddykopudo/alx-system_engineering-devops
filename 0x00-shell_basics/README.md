@@ -13,3 +13,4 @@
 13-symbolic_link:create a symbolic link under /bin/ls,named __ls__ in current directory;ln -s /bin/ls __ls__
 14-copy_html:copies all HTML files from working directory to parent directory;cp -rua *.html ../
 100-lets_move: move all files beginning with uppercase to directory /tmp/u
+101-clean_emacs;deletes all files in current working directory that ends with ~;rm *~

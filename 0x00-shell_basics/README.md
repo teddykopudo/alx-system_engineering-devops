@@ -4,3 +4,4 @@
 4-listmorefiles:Display current directory contents, including hidden files using the long format;ls -al
 5-listfilesdigitonly:display current working directory in long format,hidden files and user and group ID's numerically;ls -lna
 6-firstdirectory:make directory under /tmp/;mkdir /tmp/my_first_directory
+7-movethatfile:move file from /tmp/betty to /tmp/my_first_directory;mv /tmp/betty /tmp/my_first_directory

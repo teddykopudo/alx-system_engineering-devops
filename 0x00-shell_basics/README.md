@@ -8,3 +8,4 @@
 8-firstdelete:delete betty from /tmp/my_first_directory/betty;rm /tmp/my_first_directory/betty
 9-firstdirdeletion:delete directory my_first_directory under /tmp/;rmdir /tmp/my_first_directory
 10-back:go back to  previous directory;cd -
+11-lists:list all file in current directory,parent directory and /boot in that order;ls -la . .. /boot
